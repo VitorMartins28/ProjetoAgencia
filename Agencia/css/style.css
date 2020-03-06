@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
+.bg-title {
+    background: url('../img/ti.jpg');
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.h1t {
+    font-family: 'Oxanium', cursive;
+    color: rgb(9, 179, 108);
+}
+
+.h2t {
+    font-family: 'Oxanium', cursive;
+    color: rgb(65, 90, 110);
+}
