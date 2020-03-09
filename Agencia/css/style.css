@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Oxanium&display=swap');
-.bg-title {
-    background: url('../img/ti.jpg');
-    background-size: cover;
+.img-responsive {
     background-position-x: center;
     background-position-y: center;
 }
